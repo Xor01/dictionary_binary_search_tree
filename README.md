@@ -1,4 +1,4 @@
-# Dictionary Using Binary Search Tree
+# Words Dictionary Using Binary Search Tree
 
 I wrote this program **Data Structures and Algorithms** course.
 
